@@ -2,7 +2,8 @@ import yfinance as yf
 import streamlit as st
 
 st.write('''
-# Simple Stokc Price App
+# Simple Stock Price App
+***Made By Emon Hasan***
 
 Shown are the stock **closing price** and ***volume*** of google!
 ''')
