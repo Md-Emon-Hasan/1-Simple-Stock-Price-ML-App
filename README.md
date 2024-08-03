@@ -2,6 +2,8 @@
 
 Welcome to the **Simple Stock Price Prediction App** machine learning project repository! This project focuses on predicting stock prices using machine learning techniques and providing a simple web-based application for users to interact with.
 
+![1](https://github.com/user-attachments/assets/3feed110-96d1-4f60-b5c5-4a504d383e6d)
+
 ## 📋 Contents
 
 - [Introduction](#introduction)
